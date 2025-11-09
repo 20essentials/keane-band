@@ -1,0 +1,23 @@
+export const nameBand = ' KEANE';
+export let nameSongs = [
+	"SOMEWHERE ONLY WE KNOW", /*1*/
+	"EVERYBODY'S CHANGING", /*2*/
+	"NOTHING IN MY WAY", /*3*/
+	"BEDSHAPED", /*4*/
+	"SILENCED BY THE NIGHT", /*5*/
+	"BEND AND BREAK", /*6*/
+	"THIS IS THE LAST TIME", /*7*/
+	"YOUR EYES OPEN", /*8*/
+	"CAN'T STOP NOW", /*9*/
+	"SPIRALLING", /*10*/
+	"THE LOVERS ARE LOSING", /*11*/
+	"IS IT ANY WONDER?", /*12*/
+	"TRY AGAIN", /*13*/
+	"HAMBURG SONG", /*14*/
+	"LEAVING SO SOON?", /*15*/
+	"A BAD DREAM", /*16*/
+	"THE FROG PRINCE", /*17*/
+	"THIN AIR", /*18*/
+	"CLEAR SKIES", /*19*/
+	"RUSSIAN FARMER'S SONG", /*20*/
+] 
